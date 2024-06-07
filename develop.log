@@ -1,0 +1,220 @@
+2024/06/01 17:40:16 This is a log message written to the file
+2024/06/01 17:40:27 This is a log message written to the file
+2024/06/01 17:40:37 { 0}
+2024/06/01 17:41:48 error type 1
+2024/06/01 17:45:59 This is a log message written to the file
+2024/06/01 17:48:27 {lklshinidie 10000}
+2024/06/01 17:52:11 {lklshinidie 10000}
+2024/06/01 17:52:45 {lklshinidie 10000}
+2024/06/01 17:53:04 {刘康珑是你爹 10000}
+2024/06/01 18:54:07 { 10000}
+2024/06/01 19:01:46 This is a log message written to the file
+2024/06/01 19:01:46 DBM = &{0xc0005141b0 <nil> 0 0xc000532000 1}
+2024/06/01 19:01:46 DBS = &{0xc0000f2120 <nil> 0 0xc0005321c0 1}
+2024/06/01 19:09:25 This is a log message written to the file
+2024/06/01 19:09:25 DBM = &{0xc0000fe3f0 <nil> 0 0xc0002e2000 1}
+2024/06/01 19:09:25 DBS = &{0xc00042e120 <nil> 0 0xc0004fc000 1}
+2024/06/01 19:09:25 []
+2024/06/01 19:10:19 This is a log message written to the file
+2024/06/01 19:10:19 DBM = &{0xc00013e3f0 <nil> 0 0xc000320000 1}
+2024/06/01 19:10:19 DBS = &{0xc00013e630 <nil> 0 0xc0004aa000 1}
+2024/06/01 19:10:19 TestLink function result  []
+2024/06/01 19:15:49 This is a log message written to the file
+2024/06/01 19:15:49 DBM = &{0xc00013eea0 <nil> 0 0xc000320000 1}
+2024/06/01 19:15:49 DBS = &{0xc00013e2d0 <nil> 0 0xc0003201c0 1}
+2024/06/01 19:15:49 TestLink function result  []
+2024/06/01 19:19:43 This is a log message written to the file
+2024/06/01 19:19:43 DBM = &{0xc0001183f0 <nil> 0 0xc0002e2000 1}
+2024/06/01 19:19:43 DBS = &{0xc000430120 <nil> 0 0xc0002e2380 1}
+2024/06/01 19:19:43 TestLink function result  [{0  0   0 0   {0 0 <nil>} 0  0}]
+2024/06/01 19:19:43 TestLink function result  [{0  0   0 0   {0 0 <nil>} 0  0}]
+2024/06/02 15:28:21 This is a log message written to the file
+2024/06/02 15:28:21 DBM = &{0xc0000fe3f0 <nil> 0 0xc0002e2000 1}
+2024/06/02 15:28:21 DBS = &{0xc0004f2120 <nil> 0 0xc0002e2a80 1}
+2024/06/02 15:28:21 TestLink function result  [{1  123153213   0 0   0001-01-01 00:00:00 +0000 UTC 0  0}]
+2024/06/02 15:28:21 TestLink function result  [{1  123153213   0 0   0001-01-01 00:00:00 +0000 UTC 0  0}]
+2024/06/02 15:35:33 { 10000}
+2024/06/02 15:35:40 {zvaddf 10000}
+2024/06/02 15:36:00 {lkl 10000}
+2024/06/02 15:36:22 {lkl 10000}
+2024/06/02 15:36:23 {lkl 10000}
+2024/06/02 15:38:12 { 10000}
+2024/06/02 15:38:58 {lkl 10000}
+2024/06/02 15:40:09 This is a log message written to the file
+2024/06/02 15:40:09 DBM = &{0xc0000fe3f0 <nil> 0 0xc0002e2000 1}
+2024/06/02 15:40:09 DBS = &{0xc00044e510 <nil> 0 0xc0004d8000 1}
+2024/06/02 15:40:09 TestLink function result  [{1  123153213   0 0   0001-01-01 00:00:00 +0000 UTC 0  0}]
+2024/06/02 15:40:09 TestLink function result  [{1  123153213   0 0   0001-01-01 00:00:00 +0000 UTC 0  0}]
+2024/06/02 15:40:16 {lkl 10000}
+2024/06/02 15:40:16 
+2024/06/02 15:40:39 This is a log message written to the file
+2024/06/02 15:40:39 DBM = &{0xc000532240 <nil> 0 0xc0002e2000 1}
+2024/06/02 15:40:39 DBS = &{0xc0000fe2d0 <nil> 0 0xc0004d2000 1}
+2024/06/02 15:40:39 TestLink function result  [{1  123153213   0 0   0001-01-01 00:00:00 +0000 UTC 0  0}]
+2024/06/02 15:40:39 TestLink function result  [{1  123153213   0 0   0001-01-01 00:00:00 +0000 UTC 0  0}]
+2024/06/02 15:40:47 {lkl 10000}
+2024/06/02 15:40:48 get user info
+2024/06/02 15:46:22 This is a log message written to the file
+2024/06/02 15:46:22 DBM = &{0xc000456240 <nil> 0 0xc0002e2000 1}
+2024/06/02 15:46:22 DBS = &{0xc0000fe2d0 <nil> 0 0xc0002e2a80 1}
+2024/06/02 15:46:22 TestLink function result  [{1  123153213   0 0   0001-01-01 00:00:00 +0000 UTC 0  0}]
+2024/06/02 15:46:22 TestLink function result  [{1  123153213   0 0   0001-01-01 00:00:00 +0000 UTC 0  0}]
+2024/06/02 15:46:35 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0}
+2024/06/02 15:46:35 get user info
+2024/06/02 15:47:08 This is a log message written to the file
+2024/06/02 15:47:08 DBM = &{0xc0000feea0 <nil> 0 0xc0002e2000 1}
+2024/06/02 15:47:08 DBS = &{0xc000544090 <nil> 0 0xc0002e2a80 1}
+2024/06/02 15:47:08 TestLink function result  [{1  123153213   0 0   0001-01-01 00:00:00 +0000 UTC 0  0}]
+2024/06/02 15:47:08 TestLink function result  [{1  123153213   0 0   0001-01-01 00:00:00 +0000 UTC 0  0}]
+2024/06/02 15:47:16 get user info
+2024/06/02 15:47:23 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0}
+2024/06/02 15:47:23 get user infolkl
+2024/06/02 16:00:04 This is a log message written to the file
+2024/06/02 16:00:04 DBM = &{0xc0000f21b0 <nil> 0 0xc0000a8000 1}
+2024/06/02 16:00:04 DBS = &{0xc0000a2120 <nil> 0 0xc0000a81c0 1}
+2024/06/02 16:00:11 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0}
+2024/06/02 16:00:12 get user infolkl
+2024/06/02 16:00:12 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0}
+2024/06/02 16:02:16 This is a log message written to the file
+2024/06/02 16:02:16 DBM = &{0xc0000f2120 <nil> 0 0xc000002000 1}
+2024/06/02 16:02:16 DBS = &{0xc00007a120 <nil> 0 0xc0000021c0 1}
+2024/06/02 16:02:28 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0}
+2024/06/02 16:02:29 get user infolkl
+2024/06/02 16:02:29 total user Info {1  123153213 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0}
+2024/06/02 22:12:14 get user infolkl
+2024/06/02 22:12:14 total user Info {1  123153213 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0}
+2024/06/04 14:42:37 get user infolkl
+2024/06/04 14:42:38 total user Info {1  123153213 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0}
+2024/06/04 14:44:16 get user infolkl
+2024/06/04 14:44:16 total user Info {1  123153213 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0}
+2024/06/04 14:45:37 get user infolkl
+2024/06/04 14:45:37 total user Info {1  123153213 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0}
+2024/06/04 15:00:51 Get user by name {0  0 你爹  0 0   0001-01-01 00:00:00 +0000 UTC 0  0}
+2024/06/04 15:00:51 get user info你爹
+2024/06/04 15:00:51 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0}
+2024/06/04 15:16:05 get user info你爹
+2024/06/04 15:16:05 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0}
+2024/06/04 15:19:21 This is a log message written to the file
+2024/06/04 15:19:21 link to database master error = dial tcp 127.0.0.1:3306: connect: connection refused
+2024/06/04 15:19:21 database init error = dial tcp 127.0.0.1:3306: connect: connection refused
+2024/06/04 15:20:31 This is a log message written to the file
+2024/06/04 15:20:31 link to database master error = dial tcp 127.0.0.1:3306: connect: connection refused
+2024/06/04 15:20:31 database init error = dial tcp 127.0.0.1:3306: connect: connection refused
+2024/06/04 15:22:56 This is a log message written to the file
+2024/06/04 15:22:56 DBM = &{0xc0000ca120 <nil> 0 0xc0004b41c0 1}
+2024/06/04 15:22:56 DBS = &{0xc0004ec1b0 <nil> 0 0xc00038cc40 1}
+2024/06/04 15:23:03 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/04 15:23:03 get user infolkl
+2024/06/04 15:23:03 total user Info {2 123456789 1145141919810 lkl  1 123 1145141919810 119.45.145.96.png 0001-01-01 00:00:00 +0000 UTC 114514 1145141919810 0 email@emali.com}
+2024/06/04 15:23:59 This is a log message written to the file
+2024/06/04 15:23:59 DBM = &{0xc0000ca120 <nil> 0 0xc00038c000 1}
+2024/06/04 15:23:59 DBS = &{0xc000462120 <nil> 0 0xc00038c8c0 1}
+2024/06/04 15:24:05 get user info
+2024/06/04 15:24:05 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/04 15:24:05 Sid = 
+2024/06/04 15:24:15 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/04 15:24:15 get user infolkl
+2024/06/04 15:24:15 total user Info {2 123456789 1145141919810 lkl  1 123 1145141919810 119.45.145.96.png 0001-01-01 00:00:00 +0000 UTC 114514 1145141919810 0 email@emali.com}
+2024/06/04 15:24:15 Sid = 
+2024/06/04 15:24:45 This is a log message written to the file
+2024/06/04 15:24:45 DBM = &{0xc0000a6120 <nil> 0 0xc0003ca700 1}
+2024/06/04 15:24:45 DBS = &{0xc0000f22d0 <nil> 0 0xc0003ca8c0 1}
+2024/06/04 15:24:53 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/04 15:24:53 get user infolkl
+2024/06/04 15:24:53 total user Info {2 123456789 1145141919810 lkl  1 123 1145141919810 119.45.145.96.png 0001-01-01 00:00:00 +0000 UTC 114514 1145141919810 0 email@emali.com}
+2024/06/04 15:25:59 get user infolkl
+2024/06/04 15:25:59 total user Info {2 123456789 1145141919810 lkl  1 123 1145141919810 119.45.145.96.png 0001-01-01 00:00:00 +0000 UTC 114514 1145141919810 0 email@emali.com}
+2024/06/04 15:26:01 get user infolkl
+2024/06/04 15:26:01 total user Info {2 123456789 1145141919810 lkl  1 123 1145141919810 119.45.145.96.png 0001-01-01 00:00:00 +0000 UTC 114514 1145141919810 0 email@emali.com}
+2024/06/04 15:26:42 Get user by name {0  0 123  0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/04 15:26:43 get user info123
+2024/06/04 15:26:43 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/04 16:03:31 Get user by name {0  0 124124  0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/04 16:03:31 get user info124124
+2024/06/04 16:03:31 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/04 16:04:49 This is a log message written to the file
+2024/06/04 16:04:49 DBM = &{0xc0000f21b0 <nil> 0 0xc0003c8000 1}
+2024/06/04 16:04:49 DBS = &{0xc0004ec120 <nil> 0 0xc0003c88c0 1}
+2024/06/04 16:04:58 user not found
+2024/06/04 16:06:28 This is a log message written to the file
+2024/06/04 16:06:28 DBM = &{0xc0000ca120 <nil> 0 0xc000498000 1}
+2024/06/04 16:06:28 DBS = &{0xc000484120 <nil> 0 0xc0004981c0 1}
+2024/06/04 16:06:32 user not found
+2024/06/04 16:06:35 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/04 16:06:35 get user infolkl
+2024/06/04 16:06:35 total user Info {2 123456789 1145141919810 lkl  1 123 1145141919810 119.45.145.96.png 0001-01-01 00:00:00 +0000 UTC 114514 1145141919810 11 email@emali.com}
+2024/06/04 16:07:41 user not found
+2024/06/04 16:31:07 user not found
+2024/06/04 16:31:11 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/04 16:31:12 get user infolkl
+2024/06/04 16:31:12 total user Info {2 123456789 1145141919810 lkl  1 123 1145141919810 119.45.145.96.png 0001-01-01 00:00:00 +0000 UTC 114514 1145141919810 11 email@emali.com}
+2024/06/04 16:33:55 user not found
+2024/06/04 16:42:21 This is a log message written to the file
+2024/06/04 16:42:21 DBM = &{0xc0000f22d0 <nil> 0 0xc0004b6700 1}
+2024/06/04 16:42:21 DBS = &{0xc000454120 <nil> 0 0xc0004b68c0 1}
+2024/06/04 16:43:41 user not found
+2024/06/04 16:44:17 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/04 16:44:17 get user infolkl
+2024/06/04 16:44:17 total user Info {2 123456789 1145141919810 lkl  1 123 1145141919810 119.45.145.96.png 0001-01-01 00:00:00 +0000 UTC 114514 1145141919810 11 email@emali.com}
+2024/06/04 16:44:26 user not found
+2024/06/04 17:17:22 This is a log message written to the file
+2024/06/04 17:17:22 DBM = &{0xc0000f2120 <nil> 0 0xc0004e6000 1}
+2024/06/04 17:17:22 DBS = &{0xc0004d6120 <nil> 0 0xc0004e61c0 1}
+2024/06/04 17:18:27 user not found
+2024/06/04 17:19:27 user not found
+2024/06/04 17:19:31 Parse Json Error In Delete User
+2024/06/04 17:19:53 Parse Json Error In Delete User
+2024/06/04 17:20:05 Parse Json Error In Delete User
+2024/06/04 17:20:24 Parse Json Error In Delete User
+2024/06/04 17:27:38 Parse Json Error In Delete User
+2024/06/04 17:27:50 Parse Json Error In Delete User
+2024/06/04 17:27:53 Parse Json Error In Delete User
+2024/06/04 17:27:55 Parse Json Error In Delete User
+2024/06/04 17:28:34 user not found
+2024/06/04 17:29:52 Parse Json Error In Delete User
+2024/06/04 17:30:05 Parse Json Error In Delete User
+2024/06/04 18:03:51 This is a log message written to the file
+2024/06/04 18:03:51 DBM = &{0xc0004f2120 <nil> 0 0xc00038c000 1}
+2024/06/04 18:03:51 DBS = &{0xc0000ca1b0 <nil> 0 0xc00038c700 1}
+2024/06/04 18:10:54 Parse Json Error In Add User
+2024/06/04 18:11:05 user not found
+2024/06/04 18:11:10 Parse Json Error In Add User
+2024/06/04 18:16:41 This is a log message written to the file
+2024/06/04 18:16:41 DBM = &{0xc0000ca120 <nil> 0 0xc000534000 1}
+2024/06/04 18:16:41 DBS = &{0xc000526120 <nil> 0 0xc0005341c0 1}
+2024/06/04 18:16:47 Parse Json Error In Add User
+2024/06/04 18:17:29 Parse Json Error In Add User
+2024/06/04 18:18:01 Parse Json Error In Delete User
+2024/06/04 18:18:18 user not found
+2024/06/04 18:18:20 Parse Json Error In Add User
+2024/06/04 20:59:56 get user info
+2024/06/04 20:59:56 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/05 13:30:31 Parse Json Error In Add User
+2024/06/05 13:36:55 Parse Json Error In Add User
+2024/06/05 13:37:52 Parse Json Error In Add User
+2024/06/05 13:42:45 Parse Json Error In Add User
+2024/06/05 13:43:41 Parse Json Error In Add User
+2024/06/05 13:46:52 Parse Json Error In Add User
+2024/06/05 13:47:14 user not found
+2024/06/05 13:47:20 user not found
+2024/06/05 14:06:01 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/05 14:06:01 get user infolkl
+2024/06/05 14:06:01 total user Info {1 114514 1919810 lkl  0 114514 1919810  0001-01-01 00:00:00 +0000 UTC 1145141919  11 }
+2024/06/05 14:06:16 Parse Json Error In Add User
+2024/06/05 14:06:57 Parse Json Error In Delete User
+2024/06/05 14:17:43 user not found
+2024/06/05 14:17:47 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/05 14:17:47 get user infolkl
+2024/06/05 14:17:47 total user Info {1 114514 1919810 lkl  0 114514 1919810  0001-01-01 00:00:00 +0000 UTC 1145141919  11 }
+2024/06/05 14:51:08 Parse Json Error In Add User
+2024/06/05 14:51:12 Parse Json Error In Add User
+2024/06/05 14:51:15 user not found
+2024/06/05 14:51:18 Parse Json Error In Delete User
+2024/06/05 14:51:20 get user info
+2024/06/05 14:51:20 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/05 14:51:44 get user info
+2024/06/05 14:51:44 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/05 14:54:14 get user info
+2024/06/05 14:54:14 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/05 16:25:33 get user info
+2024/06/05 16:25:34 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
