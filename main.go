@@ -1,8 +1,14 @@
 package main
 
 import (
+	"123123/apis/captcha"
+	"123123/apis/dishes"
+	"123123/apis/login"
+	"123123/apis/merchants"
 	"123123/apis/users"
 	"123123/database"
+	"123123/minio"
+	"123123/redis"
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	"log"
@@ -36,6 +42,10 @@ func main() {
 		return
 	}
 
+	minio.InitMinio()
+	redis.InitRedis()
+	//minio.CreateBucket()
+
 	api := r.Group("/api", func(c *gin.Context) {
 
 		c.Next()
@@ -48,11 +58,30 @@ func main() {
 			user.POST("/view", users.GetUserInfo)
 			user.POST("/delete", users.DeleteUser)
 			user.POST("/modify", users.ModifyUser)
+			user.POST("/addInfo", users.AddUserInfo)
+			user.POST("/login", login.PostLoginHandler)
+		}
+
+		Captcha := api.Group("/captcha")
+		{
+			Captcha.POST("/generate", captcha.GenerateCaptchaHandler)
+			Captcha.POST("/verify", captcha.VerifyCaptchaHandler)
 		}
 
 		dish := api.Group("/dish")
 		{
 			dish.POST("/add", dishes.AddDish)
+		}
+
+		Redis := api.Group("/redis")
+		{
+			Redis.POST("/add", redis.Temp)
+			Redis.POST("/sorted", redis.Sorted)
+		}
+
+		Merchants := api.Group("/merchants")
+		{
+			Merchants.POST("/orderOf", merchants.ViewOrderDaily)
 		}
 	}
 

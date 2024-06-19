@@ -218,3 +218,332 @@
 2024/06/05 14:54:14 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
 2024/06/05 16:25:33 get user info
 2024/06/05 16:25:34 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/07 16:47:04 This is a log message written to the file
+2024/06/07 16:47:04 DBM = &{0xc00013ecf0 <nil> 0 0xc000320000 1}
+2024/06/07 16:47:04 DBS = &{0xc00013e360 <nil> 0 0xc0000ca000 1}
+2024/06/07 16:47:06 {0   0 0 0 0 0    0001-01-01 00:00:00 +0000 UTC 0 0  }
+2024/06/07 16:47:10 {0   0 0 0 0 0    0001-01-01 00:00:00 +0000 UTC 0 0  }
+2024/06/07 16:47:10 {0   0 0 0 0 0    0001-01-01 00:00:00 +0000 UTC 0 0  }
+2024/06/07 16:47:10 {0   0 0 0 0 0    0001-01-01 00:00:00 +0000 UTC 0 0  }
+2024/06/07 16:47:11 {0   0 0 0 0 0    0001-01-01 00:00:00 +0000 UTC 0 0  }
+2024/06/07 16:48:14 This is a log message written to the file
+2024/06/07 16:48:14 DBM = &{0xc0000fef30 <nil> 0 0xc0002e2000 1}
+2024/06/07 16:48:14 DBS = &{0xc0000fe360 <nil> 0 0xc0002e2700 1}
+2024/06/07 16:49:00 {0   0 0 0 0 0    0001-01-01 00:00:00 +0000 UTC 0 0  }
+2024/06/08 16:50:44 This is a log message written to the file
+2024/06/08 16:50:44 DBM = &{0xc0000fe3f0 <nil> 0 0xc0002e2000 1}
+2024/06/08 16:50:44 DBS = &{0xc0000fe5a0 <nil> 0 0xc000476000 1}
+2024/06/08 16:50:47 user not found
+2024/06/08 16:50:52 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/08 16:50:52 get user infolkl
+2024/06/08 16:50:52 total user Info {1 114514 1919810 lkl  0 114514 1919810  0001-01-01 00:00:00 +0000 UTC 1145141919  11 }
+2024/06/08 16:54:24 Parse Json Error In Add User
+2024/06/08 17:09:42 This is a log message written to the file
+2024/06/08 17:09:42 DBM = &{0xc00013e3f0 <nil> 0 0xc000320000 1}
+2024/06/08 17:09:42 DBS = &{0xc000000120 <nil> 0 0xc0003208c0 1}
+2024/06/08 17:36:23 This is a log message written to the file
+2024/06/08 17:36:23 DBM = &{0xc000508240 <nil> 0 0xc0002e2000 1}
+2024/06/08 17:36:23 DBS = &{0xc0000fe360 <nil> 0 0xc0004e0000 1}
+2024/06/08 17:38:00 User Info + {   0 }
+2024/06/08 17:39:35 This is a log message written to the file
+2024/06/08 17:39:35 DBM = &{0xc00013efc0 <nil> 0 0xc000320000 1}
+2024/06/08 17:39:35 DBS = &{0xc00013e2d0 <nil> 0 0xc000320c40 1}
+2024/06/08 17:39:46 Parse Json Error In Add User
+2024/06/08 17:46:30 User Info + {   0 }
+2024/06/08 17:49:44 Parse Json Error In Add User
+2024/06/08 17:53:21 User Info + {   0 }
+2024/06/08 17:54:11 Parse Json Error In Add User
+2024/06/08 17:55:41 Parse Json Error In Add User
+2024/06/08 17:56:18 Parse Json Error In Add User
+2024/06/08 17:57:18 Parse Json Error In Add User
+2024/06/08 17:58:00 User Info + {   0 }
+2024/06/08 17:58:18 This is a log message written to the file
+2024/06/08 17:58:18 DBM = &{0xc00013eea0 <nil> 0 0xc000320000 1}
+2024/06/08 17:58:18 DBS = &{0xc00013e2d0 <nil> 0 0xc0003208c0 1}
+2024/06/08 17:58:27 User Info + {   0 }
+2024/06/08 17:59:30 User Info + {   0 }
+2024/06/08 18:00:40 User Info + {   0 }
+2024/06/08 18:00:45 User Info + {   0 }
+2024/06/08 18:01:05 User Info + {   0 }
+2024/06/08 18:01:43 User Info + {   0 }
+2024/06/08 18:03:53 User Info + {   0 }
+2024/06/08 18:04:02 User Info + {   0 }
+2024/06/11 11:08:44 This is a log message written to the file
+2024/06/11 11:08:44 DBM = &{0xc0001ae3f0 <nil> 0 0xc000390000 1}
+2024/06/11 11:08:44 DBS = &{0xc000122120 <nil> 0 0xc000390380 1}
+2024/06/11 17:33:19 This is a log message written to the file
+2024/06/11 17:33:19 DBM = &{0xc00013e240 <nil> 0 0xc000320000 1}
+2024/06/11 17:33:19 DBS = &{0xc00007a120 <nil> 0 0xc000320a80 1}
+2024/06/11 17:41:46 This is a log message written to the file
+2024/06/11 17:41:46 DBM = &{0xc00013e3f0 <nil> 0 0xc000320000 1}
+2024/06/11 17:41:46 DBS = &{0xc00007e120 <nil> 0 0xc0003208c0 1}
+2024/06/11 17:42:05 This is a log message written to the file
+2024/06/11 17:42:05 DBM = &{0xc0000fe480 <nil> 0 0xc0002e2000 1}
+2024/06/11 17:42:05 DBS = &{0xc0004bc120 <nil> 0 0xc0002e21c0 1}
+2024/06/11 17:42:05 &{0xc0004bc2d0 0xc000400300 0 { } true 0xc00007fda0 0xc00006d520 false <nil>   0xc00007fec0 0}
+2024/06/11 17:45:25 This is a log message written to the file
+2024/06/11 17:45:26 DBM = &{0xc00013e480 <nil> 0 0xc000320000 1}
+2024/06/11 17:45:26 DBS = &{0xc0004a2480 <nil> 0 0xc0003201c0 1}
+2024/06/11 17:45:26 &{0xc0004a2630 0xc000078480 0 { } true 0xc0001c6660 0xc000515d80 false <nil>   0xc0001c66c0 0}
+2024/06/11 17:46:27 This is a log message written to the file
+2024/06/11 17:46:27 DBM = &{0xc0004ac630 <nil> 0 0xc000320000 1}
+2024/06/11 17:46:27 DBS = &{0xc00013e2d0 <nil> 0 0xc000320a80 1}
+2024/06/11 17:46:27 &{0xc00013e480 0xc00014aa20 0 { } true 0xc0004112f0 0xc0003f9b00 false <nil>   0xc000411350 0}
+2024/06/11 17:46:58 This is a log message written to the file
+2024/06/11 17:46:58 DBM = &{0xc00044c630 <nil> 0 0xc0002e2000 1}
+2024/06/11 17:46:58 DBS = &{0xc0000fe2d0 <nil> 0 0xc0002e21c0 1}
+2024/06/11 17:46:58 this is minioClient &{0xc0000fe480 0xc0001227e0 0 { } true 0xc00036d2f0 0xc0001da8c0 false <nil>   0xc00036d380 0}
+2024/06/12 15:18:57 This is a log message written to the file
+2024/06/12 15:18:57 DBM = &{0xc0001187e0 <nil> 0 0xc0002e2000 1}
+2024/06/12 15:18:57 DBS = &{0xc0003fc120 <nil> 0 0xc000282000 1}
+2024/06/12 15:18:57 this is minioClient &{0xc000118990 0xc000123080 0 { } true 0xc000156900 0xc0001dbb20 false <nil>   0xc000156960 0}
+2024/06/12 15:46:03 this is requestBody {u8mVUqgbZqoRTns7aMR7 1231241}
+2024/06/12 15:48:00 This is a log message written to the file
+2024/06/12 15:48:00 DBM = &{0xc000118630 <nil> 0 0xc0002e2000 1}
+2024/06/12 15:48:00 DBS = &{0xc0003fa120 <nil> 0 0xc0002e2a80 1}
+2024/06/12 15:48:00 this is minioClient &{0xc0003fa2d0 0xc0004001e0 0 { } true 0xc0003fc690 0xc0001da8e0 false <nil>   0xc0003fc6f0 0}
+2024/06/12 15:48:05 In generate handler TBxZ4f324EqnQV6GZxgb data:image/png;base64,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 <nil>
+2024/06/12 15:50:27 In generate handler fsAASDVzmDq2rS4hUvJH data:image/png;base64,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 <nil>
+2024/06/12 15:50:28 In generate handler RxRsnQJmCZmyh3MyngMR data:image/png;base64,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 <nil>
+2024/06/12 15:52:03 In generate handler EsFq21tTuyRvQBqaXZbr data:image/png;base64,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 <nil>
+2024/06/12 15:52:10 this is requestBody {EsFq21tTuyRvQBqaXZbr 61000}
+2024/06/12 15:52:12 In generate handler D1b97G8nS7XK0enH2szE data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPAAAABQCAMAAAAQlwhOAAAA81BMVEUAAAB9ACS6PWGBBCjpbJDKTXG7PmKrLlL4e5+3Ol67PmK8P2OzNlqtMFSJDDDDRmquMVWuMVWqLVH+gaWjJkqsL1OiJUnmaY2KDTG1OFzTVnrrbpKSFTm6PWGLDjKkJ0vjZoqFCCz4e5/1eJzNUHTgY4efIkbQU3e7PmKUFzu/QmasL1OoK0/5fKDaXYGeIUWmKU21OFzaXYF/AiaDBiqtMFT9gKTYW3+nKk6pLFDJTHDmaY3qbZGsL1P7fqL6faG6PWH4e5/aXYGfIkbNUHT7fqKfIkaOETXdYITGSW3WWX2KDTGEByulKEylKEyGCS3PUna6Y/4AAAAAAXRSTlMAQObYZgAABhFJREFUeJzkW1lPKk0Q7XpwwRe/kNEHFVwe0GjEcIkCRoNGcoXE+P9/zheYme6q3pdZ8Hp8EIaa6jp9qquXAcZxyn4XTk9/HeO2A/iJuG87gCZwLF7e37sYL+uOZo3zWr0fH2PGDuPlsgHG5+c1Mw4x/uEKv0TfSXoJir+tx8tLLGM+DjZMC1QZWk1IVzhnWvy1Szm09WFUI1jhFrM6DyKo/eEwmHHGubYsMUR1eTjfLANerNocxTTN/II4iGkmwx3amsJIXX/CBwfhjCV+aQJ//Bd/L0/lgrL7jhMvhSUJFdcpAn98OBn/McZFw2JuyicnJ+6QQBmlILerach7A+fm+8fAWI5K0DcTd/LFM4/FRrlW5Rbdj+/mAgPlJYffdrBkOzCnrb43Gtiio5CGjEwXeRmjlN3bQeEDxoPBQM+3zbW0oJSvJAq6/VJgibM3Xwbj8djEN2UOHkTeR1rPXw3FGO73+49l0fZbkQD2l78ZGwoxRMvbY2wwSGQscSmj7T8+PiKF7aTxBITNqI5vim0oer1eRQqXQeLKqigsPuLmfEnMmQFhiSe5t7e3te2ML6Uj0EujysMqaQLpftQPiLRYqQBZggNIN3FDznj9fjabqTN0kwCmC7v8TLErX0vbWlzY5ZvEu43tDFIklnEZZg6qWC5zUWNBXoUzdfkEyuJS7iKB77DYN7i8DGIM6LAFZHU01gBkpAuFmUFhplEYNUzy6fvbl/E1eh3Gd93qNI/RPaZQxivJQMe6dBNep4t/qsbefK+vPS0VBgBsOp2Kd3bKyEAmhhLaojC9FD89RfLNKT5M8Ttb+4iLPCfjIi/z1ZAC5KVB5HwfHsh7i7mssOyLafV0bJeaZbzu6gd8wRKddaFVxu6psEdzdUBR1F6llXqkc7XVCiv0rDlt+ZCPfqXHskiPtUBtz1a2JC4jvSvp/izL9CIu+TK8QZRRduklaqNY5xiNRtQV0686DAovl8uQA9JqUDbY7XbFJeMcKgc3Up0xbRkyKdzGiUcx8XfxJaPC9pKKF5Z+VboRgXc1jaJuBh5dpgvQWsHRIlv9SH9L/QLv7iqMmdgD8PX8ptZowrPWW3584KGwYbMEGiROWzJfedsDRoUdqw6zwkDqgLyRJg60fivKfXmH6u5Pl8KGMQzkjJvRwyIcgFPhysY7yi+zT3AoDHgi3lw5yo+fAHS7/zV28U7RonAGqEfiWcppwk8yNMYLvBHWHkqL7ig1OTo6Yr1ej7TCyc4Z5PUE+FGJkQovJ8VmLE1mEo7JaLFYiJQ1PHbAR7RUYWUPyWA+n6/rCd8U25Hh+xNSG+egw4WfwroqrYiXv56DcZmixw5y6NFHFphnT42ho0hr+k+uxUDLubXRQ/FyZ2dHCjklsXGNtBhZKwatxaRi81Rnoub6TDOHh5ixJhqNg2eHT8ZYR0QsIiHZKeQoTZkyIMoKD+IZhXqAC5LCLhzaPtQm9vOzk3Gn0xE+eK5xPiCEARo/YxMmT6WYEp5FS6/p6ybMWKdygMLcDeNE+T+em3jsTCYTorABDEjSVIpqfPJjKZyYiDJnMpEmNfJtJN/nqw7cuoL1KQaeAOpYUVgxB3VJlYrbW8L4r6nt6tPHmZVqV1cSA+X7V8cYyGKkU0WrpV97P1aYXCaYFBYzM67B0eCPJexFwjJgX1ND2HObFEWnk97r/MGTPUstm8fX10TGe3sejBngtbZUbvZDmpt6Wdkeb1et8JU5BlTBQMxb+/s5Y+sTuPfAoGoevwhXVybGBdSpv+Bre8b6/h7KuDk4+BYoFf4Ul4IV/gqOrR7cBdh+fn5Gt/P1ZWE8j3YbjLu7IMYBthfSexvfeZOMa/J7cSEztqBBvkm4sX0YwLc1dMPMb26sjLcf6EGgH1rnu0i8P5Bv61gsFlv4i+v4HxsKmL4Du/D+ir0edfSV9uekmsdyNmy+5WxEXNSrxL4yQ8dXefDqQEXfckZYrVZNjgY33/KY9ayuEFZ1OY5DeZB+dlYwfmo3nmD47YsRJIWfnqIYG39MVzfQyUck4viafkyXCI+hn8o3EjXxraW4bzN+G99/H/8HAAD//08TRDfg1hqXAAAAAElFTkSuQmCC <nil>
+2024/06/12 15:52:17 this is requestBody {D1b97G8nS7XK0enH2szE 87703}
+2024/06/12 15:58:55 This is a log message written to the file
+2024/06/12 15:58:55 DBM = &{0xc0001187e0 <nil> 0 0xc0002e2000 1}
+2024/06/12 15:58:55 DBS = &{0xc000450120 <nil> 0 0xc0002b0000 1}
+2024/06/12 15:58:55 this is minioClient &{0xc000118990 0xc000400720 0 { } true 0xc00029e8a0 0xc0001dac00 false <nil>   0xc00029e900 0}
+2024/06/12 15:59:18 this is requestBody {zNnA63toU64EXhSTnaVK 97978}
+2024/06/12 15:59:18 this is solution 97978, and this is v 
+2024/06/12 15:59:35 This is a log message written to the file
+2024/06/12 15:59:35 DBM = &{0xc000140990 <nil> 0 0xc000320000 1}
+2024/06/12 15:59:35 DBS = &{0xc000140bd0 <nil> 0 0xc0003208c0 1}
+2024/06/12 15:59:35 this is minioClient &{0xc000140d80 0xc000078a20 0 { } true 0xc00024cd20 0xc0003728a0 false <nil>   0xc00024cd80 0}
+2024/06/12 15:59:50 this is requestBody {GVqtGycyK7Fx3NshGDz8 }
+2024/06/12 16:00:09 this is requestBody {GVqtGycyK7Fx3NshGDz8 32692}
+2024/06/12 16:00:09 this is solution 32692, and this is v  11
+2024/06/12 16:02:35 This is a log message written to the file
+2024/06/12 16:02:35 DBM = &{0xc000118870 <nil> 0 0xc0002e2000 1}
+2024/06/12 16:02:35 DBS = &{0xc000118ab0 <nil> 0 0xc0002e2c40 1}
+2024/06/12 16:02:35 this is minioClient &{0xc000118c60 0xc000122fc0 0 { } true 0xc0000d2d20 0xc0003428e0 false <nil>   0xc0000d2d80 0}
+2024/06/12 16:02:50 this is requestBody {7Ocu21TmMj6Xkjd2EHxZ 00841}
+2024/06/12 16:02:50 get error occurs ERR AUTH <password> called without any password configured for the default user. Are you sure your configuration is correct?
+2024/06/12 16:02:50 this is solution 00841, and this is v  11
+2024/06/12 16:18:08 This is a log message written to the file
+2024/06/12 16:18:08 DBM = &{0xc0001186c0 <nil> 0 0xc0002e2000 1}
+2024/06/12 16:18:08 DBS = &{0xc000464120 <nil> 0 0xc0002e2c40 1}
+2024/06/12 16:18:08 this is minioClient &{0xc0004642d0 0xc0001227e0 0 { } true 0xc000466690 0xc0001da8e0 false <nil>   0xc0004666f0 0}
+2024/06/12 16:18:51 this is requestBody {Snb8tbNhY1HsmNJKRBqN 79224}
+2024/06/12 16:18:56 this is requestBody {Snb8tbNhY1HsmNJKRBqN 41354135}
+2024/06/12 16:18:56 get error occurs redis: nil
+2024/06/12 16:18:56 this is solution 41354135, and this is v  11
+2024/06/12 16:19:11 this is requestBody {CxRa6d3gf0g3FT2yu4yk 76075}
+2024/06/12 16:19:16 this is requestBody {CxRa6d3gf0g3FT2yu4yk 7607}
+2024/06/12 16:19:16 get error occurs redis: nil
+2024/06/12 16:19:16 this is solution 7607, and this is v  11
+2024/06/13 15:54:46 This is a log message written to the file
+2024/06/13 15:54:46 DBM = &{0xc000140900 <nil> 0 0xc000320000 1}
+2024/06/13 15:54:46 DBS = &{0xc0004fe120 <nil> 0 0xc000320c40 1}
+2024/06/13 15:54:46 this is minioClient &{0xc0004fe2d0 0xc0000781e0 0 { } true 0xc0001b0690 0xc0002168e0 false <nil>   0xc0001b06f0 0}
+2024/06/13 16:02:36 This is a log message written to the file
+2024/06/13 16:02:36 DBM = &{0xc000140750 <nil> 0 0xc000320000 1}
+2024/06/13 16:02:36 DBS = &{0xc000002120 <nil> 0 0xc0002ea000 1}
+2024/06/13 16:02:36 this is minioClient &{0xc000140900 0xc00014af00 0 { } true 0xc0002be900 0xc000219b80 false <nil>   0xc0002be960 0}
+2024/06/13 16:02:57 this is requestBody {9CXsnzVnnJFUKx90Guyq 00841}
+2024/06/13 16:03:54 This is a log message written to the file
+2024/06/13 16:03:54 DBM = &{0xc0001186c0 <nil> 0 0xc0002e2000 1}
+2024/06/13 16:03:54 DBS = &{0xc000118900 <nil> 0 0xc0002e21c0 1}
+2024/06/13 16:03:54 this is minioClient &{0xc000118ab0 0xc000400660 0 { } true 0xc0002aad20 0xc00037c980 false <nil>   0xc0002aad80 0}
+2024/06/13 16:04:38 this is requestBody {CXDVCTdQhy70vB7jSuYb 06859}
+2024/06/13 16:05:47 This is a log message written to the file
+2024/06/13 16:05:47 DBM = &{0xc0001187e0 <nil> 0 0xc0002e2000 1}
+2024/06/13 16:05:47 DBS = &{0xc000118a20 <nil> 0 0xc0002e2a80 1}
+2024/06/13 16:05:47 this is minioClient &{0xc000118bd0 0xc000400600 0 { } true 0xc000156db0 0xc0001dbaa0 false <nil>   0xc000156e10 0}
+2024/06/13 16:06:21 this is requestBody {GSMzMyqd7XxMnhYd1CRK 25485}
+2024/06/13 16:10:50 this is requestBody {Tydr2T2R2qT7gqYXJh3B 82008}
+2024/06/13 16:10:50 login user = {lklshinidie liu1214435123}
+2024/06/13 16:10:50 this is jwtStr eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJlbXBsb3llZSIsImlzcyI6Im5pZGllbGtsIiwic3ViIjoiYWRtaW4tdGFrZW91dCJ9.6RSM5b4Ht7oYpaRL8_rmhXmbFY-T2fRCDvr6C8ZzVAc
+2024/06/16 18:08:00 This is a log message written to the file
+2024/06/16 18:08:00 DBM = &{0xc0001186c0 <nil> 0 0xc0002e2000 1}
+2024/06/16 18:08:00 DBS = &{0xc000470120 <nil> 0 0xc0002e2540 1}
+2024/06/16 18:08:00 this is minioClient &{0xc0004702d0 0xc0004002a0 0 { } true 0xc000472690 0xc0001dbac0 false <nil>   0xc0004726f0 0}
+2024/06/16 20:13:17 This is a log message written to the file
+2024/06/16 20:13:17 DBM = &{0xc000140750 <nil> 0 0xc000320000 1}
+2024/06/16 20:13:17 DBS = &{0xc000450120 <nil> 0 0xc000320c40 1}
+2024/06/16 20:13:17 this is minioClient &{0xc0004502d0 0xc00014a780 0 { } true 0xc000452690 0xc0002168c0 false <nil>   0xc0004526f0 0}
+2024/06/16 20:13:17 rdb is Redis<119.45.145.96:6379 db:0>
+2024/06/16 20:36:53 this is requestBody {c0Zsy7dunRkzejBejn2A 03398}
+2024/06/16 20:36:53 login user = {lkl liu1214435123}
+2024/06/16 20:36:53 login password does not match
+2024/06/16 20:37:16 this is requestBody {c0Zsy7dunRkzejBejn2A 03398}
+2024/06/16 20:37:16 get error occurs redis: nil
+2024/06/16 20:37:16 this is solution 03398, and this is v  11
+2024/06/16 20:37:31 this is requestBody {A0mxkkGY2tAEUUuDsOy0 68957}
+2024/06/16 20:37:31 login user = {lklshinide liu1214435123}
+2024/06/16 20:37:31 login password does not match
+2024/06/16 20:37:37 this is requestBody {A0mxkkGY2tAEUUuDsOy0 68957}
+2024/06/16 20:37:37 get error occurs redis: nil
+2024/06/16 20:37:37 this is solution 68957, and this is v  11
+2024/06/16 20:37:43 this is requestBody {0V6ROaCMoaH06ru0vEB3 45512}
+2024/06/16 20:37:44 login user = {lklshinidie  liu1214435123}
+2024/06/16 20:37:44 this is jwtStr eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJlbXBsb3llZSIsImlzcyI6Im5pZGllbGtsIiwic3ViIjoiYWRtaW4tdGFrZW91dCJ9.yMT6yzszwzY_aMGk6kPb1sYBYQIiAGJYGOkgOXqN9x4
+2024/06/16 21:01:04 this is requestBody {hfU8JOUggAxDNMcafKyy 10559}
+2024/06/16 21:01:04 login user = {lklshinide liu1214435123}
+2024/06/16 21:01:04 login password does not match
+2024/06/16 21:01:22 this is requestBody {H0dBeO12kD4Tx74V7ezJ 85026}
+2024/06/16 21:01:22 login user = {lklshinidie liu1214435123}
+2024/06/16 21:01:22 this is jwtStr eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJlbXBsb3llZSIsImlzcyI6Im5pZGllbGtsIiwic3ViIjoiYWRtaW4tdGFrZW91dCJ9.5efDMV6NFzdNugpa_QNAtnsYP_Bg3RiCSjZBKjORtPo
+2024/06/16 21:01:30 get user info
+2024/06/16 21:01:30 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/17 13:41:56 This is a log message written to the file
+2024/06/17 13:41:56 DBM = &{0xc0001407e0 <nil> 0 0xc000320000 1}
+2024/06/17 13:41:56 DBS = &{0xc0004c4120 <nil> 0 0xc000320540 1}
+2024/06/17 13:41:56 this is minioClient &{0xc0004c42d0 0xc000078360 0 { } true 0xc0004c66f0 0xc0002168e0 false <nil>   0xc0004c6750 0}
+2024/06/17 13:41:56 rdb is Redis<119.45.145.96:6379 db:0>
+2024/06/17 13:48:02 This is a log message written to the file
+2024/06/17 13:48:02 DBM = &{0xc000140630 <nil> 0 0xc000320000 1}
+2024/06/17 13:48:02 DBS = &{0xc0004f4120 <nil> 0 0xc000320380 1}
+2024/06/17 13:48:02 this is minioClient &{0xc0004f42d0 0xc00014aae0 0 { } true 0xc0004f6690 0xc0002168c0 false <nil>   0xc0004f66f0 0}
+2024/06/17 13:48:02 rdb is Redis<119.45.145.96:6379 db:0>
+2024/06/17 13:49:12 user not found
+2024/06/17 13:49:16 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/17 13:49:17 get user infolkl
+2024/06/17 13:49:17 total user Info {1 114514 1919810 lkl  0 114514 1919810  0001-01-01 00:00:00 +0000 UTC 1145141919  11 }
+2024/06/17 13:49:20 user not found
+2024/06/17 13:49:22 Parse Json Error In Add User
+2024/06/18 15:26:49 user not found
+2024/06/18 15:26:50 Parse Json Error In Add User
+2024/06/18 15:26:55 get user info
+2024/06/18 15:26:55 total user Info {0  0   0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/18 15:37:01 this is requestBody {E6ChVq4yYMdufuFG9jvJ }
+2024/06/18 15:37:01 this is solution , and this is v 78665 11
+2024/06/18 15:59:03 user not found
+2024/06/18 16:16:43 Parse Json Error In Delete User
+2024/06/18 16:40:02 This is a log message written to the file
+2024/06/18 16:40:02 DBM = &{0xc000140630 <nil> 0 0xc000320000 1}
+2024/06/18 16:40:02 DBS = &{0xc0000c8090 <nil> 0 0xc0002ee000 1}
+2024/06/18 16:40:02 this is minioClient &{0xc000140870 0xc00014af00 0 { } true 0xc0002c4a50 0xc000217b40 false <nil>   0xc0002c4ab0 0}
+2024/06/18 16:40:02 rdb is Redis<119.45.145.96:6379 db:0>
+2024/06/18 16:40:51 bind json mid error = EOF
+2024/06/18 16:42:09 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:42:14 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:42:15 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:42:15 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:02 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:03 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:04 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:04 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:04 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:04 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:05 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:05 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:05 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:05 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:05 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:05 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:06 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:06 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:06 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:06 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:06 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:07 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:07 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:45:07 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:53:49 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:54:04 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:54:05 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:54:06 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:55:44 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:56:52 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:59:12 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:59:12 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:59:12 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:59:12 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:59:13 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:59:46 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 16:59:46 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 17:00:12 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 17:00:13 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 17:13:18 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 17:13:25 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 17:13:26 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 17:13:27 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 17:13:27 bind json mid error = json: cannot unmarshal object into Go value of type int64
+2024/06/18 17:13:36 This is a log message written to the file
+2024/06/18 17:13:36 DBM = &{0xc000118750 <nil> 0 0xc0002e2000 1}
+2024/06/18 17:13:36 DBS = &{0xc0003fc120 <nil> 0 0xc0002e2540 1}
+2024/06/18 17:13:36 this is minioClient &{0xc0003fc2d0 0xc0001227e0 0 { } true 0xc0003fe690 0xc0001da8e0 false <nil>   0xc0003fe6f0 0}
+2024/06/18 17:13:36 rdb is Redis<119.45.145.96:6379 db:0>
+2024/06/18 17:13:44 today is 2024-06-18 00:00:00 +0800 CST
+2024/06/18 17:13:44 orders = []
+2024/06/18 17:14:04 This is a log message written to the file
+2024/06/18 17:14:04 DBM = &{0xc0001406c0 <nil> 0 0xc000320000 1}
+2024/06/18 17:14:04 DBS = &{0xc00041c120 <nil> 0 0xc000320540 1}
+2024/06/18 17:14:04 this is minioClient &{0xc00041c2d0 0xc00014a8a0 0 { } true 0xc00041e690 0xc0002168e0 false <nil>   0xc00041e6f0 0}
+2024/06/18 17:14:04 rdb is Redis<119.45.145.96:6379 db:0>
+2024/06/18 17:19:43 today is 2024-06-18 00:00:00 +0800 CST
+2024/06/18 17:19:43 orders = []
+2024/06/18 17:19:44 today is 2024-06-18 00:00:00 +0800 CST
+2024/06/18 17:19:44 orders = []
+2024/06/18 17:19:45 today is 2024-06-18 00:00:00 +0800 CST
+2024/06/18 17:19:45 orders = []
+2024/06/18 17:19:45 today is 2024-06-18 00:00:00 +0800 CST
+2024/06/18 17:19:45 orders = []
+2024/06/18 17:19:45 today is 2024-06-18 00:00:00 +0800 CST
+2024/06/18 17:19:45 orders = []
+2024/06/18 17:19:45 today is 2024-06-18 00:00:00 +0800 CST
+2024/06/18 17:19:45 orders = []
+2024/06/18 17:19:45 today is 2024-06-18 00:00:00 +0800 CST
+2024/06/18 17:19:45 orders = []
+2024/06/18 17:20:08 This is a log message written to the file
+2024/06/18 17:20:08 DBM = &{0xc0001426c0 <nil> 0 0xc000320000 1}
+2024/06/18 17:20:08 DBS = &{0xc00047e120 <nil> 0 0xc000320700 1}
+2024/06/18 17:20:08 this is minioClient &{0xc00047e2d0 0xc00014cba0 0 { } true 0xc000296690 0xc0002168e0 false <nil>   0xc0002966f0 0}
+2024/06/18 17:20:08 rdb is Redis<119.45.145.96:6379 db:0>
+2024/06/18 17:20:13 today is 2024-06-18 00:00:00 +0800 CST
+2024/06/18 17:20:13 orders = []
+2024/06/18 17:20:14 today is 2024-06-18 00:00:00 +0800 CST
+2024/06/18 17:20:14 orders = []
+2024/06/18 17:20:14 today is 2024-06-18 00:00:00 +0800 CST
+2024/06/18 17:20:14 orders = []
+2024/06/18 17:20:14 today is 2024-06-18 00:00:00 +0800 CST
+2024/06/18 17:20:14 orders = []
+2024/06/18 17:20:15 today is 2024-06-18 00:00:00 +0800 CST
+2024/06/18 17:20:15 orders = []
+2024/06/18 17:23:03 This is a log message written to the file
+2024/06/18 17:23:03 DBM = &{0xc0001407e0 <nil> 0 0xc000320000 1}
+2024/06/18 17:23:03 DBS = &{0xc0004fe120 <nil> 0 0xc0003201c0 1}
+2024/06/18 17:23:03 this is minioClient &{0xc0004fe2d0 0xc00014ac00 0 { } true 0xc000296690 0xc00036fa80 false <nil>   0xc0002966f0 0}
+2024/06/18 17:23:03 rdb is Redis<119.45.145.96:6379 db:0>
+2024/06/18 17:23:20 today is 2024-06-18 00:00:00 +0800 CST
+ mid is 1
+2024/06/18 17:23:20 orders = [{0 1 0 0001-01-01 00:00:00 +0000 UTC}]
+2024/06/18 21:26:13 This is a log message written to the file
+2024/06/18 21:26:13 DBM = &{0xc0001186c0 <nil> 0 0xc0002e2000 1}
+2024/06/18 21:26:13 DBS = &{0xc00047c120 <nil> 0 0xc0002e2a80 1}
+2024/06/18 21:26:13 this is minioClient &{0xc00047c2d0 0xc00040c240 0 { } true 0xc00047e690 0xc0001da8e0 false <nil>   0xc00047e6f0 0}
+2024/06/18 21:26:13 rdb is Redis<119.45.145.96:6379 db:0>
+2024/06/18 21:26:37 today is 2024-06-18 00:00:00 +0800 CST
+ mid is 1
+2024/06/18 21:26:37 orders = [1 2 3]
+2024/06/19 11:03:06 This is a log message written to the file
+2024/06/19 11:03:06 DBM = &{0xc0001407e0 <nil> 0 0xc000320000 1}
+2024/06/19 11:03:06 DBS = &{0xc0004b6120 <nil> 0 0xc0002ec000 1}
+2024/06/19 11:03:06 this is minioClient &{0xc000140990 0xc00014af00 0 { } true 0xc0002daa50 0xc000216c40 false <nil>   0xc0002daab0 0}
+2024/06/19 11:03:06 rdb is Redis<119.45.145.96:6379 db:0>
+2024/06/19 12:50:40 user not found
+2024/06/19 12:50:41 Parse Json Error In Delete User
+2024/06/19 12:52:05 Parse Json Error In Add User
+2024/06/19 15:32:01 Parse Json Error In Add User
+2024/06/19 15:32:11 Parse Json Error In Delete User
+2024/06/19 15:35:58 This is a log message written to the file
+2024/06/19 15:35:58 DBM = &{0xc0001407e0 <nil> 0 0xc000320000 1}
+2024/06/19 15:35:58 DBS = &{0xc000140a20 <nil> 0 0xc000320380 1}
+2024/06/19 15:35:58 this is minioClient &{0xc000140bd0 0xc0000785a0 0 { } true 0xc00020edb0 0xc000217a60 false <nil>   0xc00020ee10 0}
+2024/06/19 15:35:58 rdb is Redis<119.45.145.96:6379 db:0>
+2024/06/19 15:36:16 Get user by name {0  0 lkl  0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/19 15:36:16 get user infolkl
+2024/06/19 15:36:16 total user Info {1 114514 1919810 lkl  0 114514 1919810  0001-01-01 00:00:00 +0000 UTC 1145141919  11 }
+2024/06/19 15:41:45 Get user by name {0  0 lkl2  0 0   0001-01-01 00:00:00 +0000 UTC 0  0 }
+2024/06/19 15:41:45 get user infolkl2
+2024/06/19 15:41:45 total user Info {2  1145141919810 lkl2  1 11 1145141919810  2024-06-19 15:41:13 +0800 CST 0 114514 11 }

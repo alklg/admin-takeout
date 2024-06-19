@@ -40,5 +40,5 @@ type Merchants struct {
 	Latitude    float64   `gorm:"latitude" json:"latitude"`
 	Longitude   float64   `gorm:"longitude" json:"longitude"`
 	Info        string    `gorm:"info" json:"info"`
-	Phone       stirng    `gorm:"phone" json:"phone"`
+	Phone       string    `gorm:"phone" json:"phone"`
 }

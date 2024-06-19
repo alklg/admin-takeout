@@ -28,3 +28,16 @@ type ByName struct {
 	Name string `json:"username"`
 	Code int    `json:"code"`
 }
+
+type AddUserStruct struct {
+	Name       string `json:"name" gorm:"name"`
+	School     string `json:"school"`
+	Phone      int64  `json:"phone" gorm:"phone"`
+	SchoolCode int    `gorm:"school"`
+	Sid        string `json:"sid" gorm:"sid"`
+}
+
+type SchoolCode struct {
+	Code   int    `json:"code" gorm:"code"`
+	School string `json:"school" gorm:"school"`
+}
